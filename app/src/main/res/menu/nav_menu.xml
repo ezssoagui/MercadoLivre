@@ -22,12 +22,12 @@
             android:title="Eletrônicos" />
 
         <item
-            android:id="@+id/nav_Food"
+            android:id="@+id/nav_food"
             android:icon="@drawable/ic_food"
             android:title="Alimentos" />
 
         <item
-            android:id="@+id/nav_Beauty"
+            android:id="@+id/nav_beauty"
             android:icon="@drawable/ic_beauty"
             android:title="Beleza" />
 
