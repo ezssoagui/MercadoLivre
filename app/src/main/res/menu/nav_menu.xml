@@ -7,34 +7,34 @@
         android:checkableBehavior="single">
 
         <item
-            android:id="@+id/nav_prime"
-            android:icon="@drawable/ic_cart"
-            android:title="Prime" />
+            android:id="@+id/nav_pets"
+            android:icon="@drawable/ic_pet"
+            android:title="Pets" />
 
         <item
-            android:id="@+id/nav_fashion"
-            android:icon="@drawable/ic_fashion"
-            android:title="Moda" />
+            android:id="@+id/nav_carros"
+            android:icon="@drawable/ic_car"
+            android:title="Carros" />
 
         <item
-            android:id="@+id/nav_eletronics"
-            android:icon="@drawable/ic_eletronics"
-            android:title="Eletrônicos" />
+            android:id="@+id/nav_imoveis"
+            android:icon="@drawable/ic_imoveis"
+            android:title="Imoveis" />
 
         <item
             android:id="@+id/nav_food"
             android:icon="@drawable/ic_food"
-            android:title="Alimentos" />
+            android:title="Comidas" />
 
         <item
-            android:id="@+id/nav_beauty"
-            android:icon="@drawable/ic_beauty"
-            android:title="Beleza" />
+            android:id="@+id/nav_esportes"
+            android:icon="@drawable/ic_esporte"
+            android:title="Esportes" />
 
         <item
-            android:id="@+id/nav_furniture"
-            android:icon="@drawable/ic_furniture"
-            android:title="Móveis" />
+            android:id="@+id/nav_abelhas"
+            android:icon="@drawable/ic_bee"
+            android:title="Abelhas" />
 
     </group>
 </menu>
